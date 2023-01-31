@@ -7,5 +7,8 @@ public class Main {
         System.out.println("Norm");
         System.out.println("chem zanimaeshs9?");
         System.out.println("ni4em");
+
+
+        System.out.println("4e kogo");
     }
 }
